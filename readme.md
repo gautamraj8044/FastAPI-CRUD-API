@@ -1,4 +1,4 @@
-```markdown
+
 # FastAPI CRUD Application
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built with FastAPI and SQLAlchemy, with SQLite as the database. The application provides RESTful API endpoints to manage items in a database and demonstrates fundamental CRUD operations.
