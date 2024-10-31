@@ -21,8 +21,8 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 ## Prerequisites
 
 - **Python 3.7+** should be installed on your system. You can download it [here](https://www.python.org/downloads/).
-
 ## Installation
+```
 
 1. Clone this repository:
 
